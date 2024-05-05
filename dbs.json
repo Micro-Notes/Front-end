@@ -1,0 +1,11 @@
+{
+  "clientes": [
+    {
+      "id": "335d",
+      "nombre": "Aprendiendo Vue",
+      "apellido": "frontend",
+      "puesto": "estoy aprendiendo Vue js ",
+      "estado": 1
+    }
+  ]
+}
